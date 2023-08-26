@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @PaRougvv
-- love algorithms
+- love algorithms, and a bit of Competitve Programming :)
+- 
 - 
 
 <!---
